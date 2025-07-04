@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Appoinments--App/static/css/main.34a6d31a.chunk.css",
+    "main.js": "/Appoinments--App/static/js/main.8c6272cb.chunk.js",
+    "main.js.map": "/Appoinments--App/static/js/main.8c6272cb.chunk.js.map",
+    "runtime-main.js": "/Appoinments--App/static/js/runtime-main.074aacba.js",
+    "runtime-main.js.map": "/Appoinments--App/static/js/runtime-main.074aacba.js.map",
+    "static/js/2.7d3a9bbe.chunk.js": "/Appoinments--App/static/js/2.7d3a9bbe.chunk.js",
+    "static/js/2.7d3a9bbe.chunk.js.map": "/Appoinments--App/static/js/2.7d3a9bbe.chunk.js.map",
+    "index.html": "/Appoinments--App/index.html",
+    "static/css/main.34a6d31a.chunk.css.map": "/Appoinments--App/static/css/main.34a6d31a.chunk.css.map",
+    "static/js/2.7d3a9bbe.chunk.js.LICENSE.txt": "/Appoinments--App/static/js/2.7d3a9bbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.074aacba.js",
+    "static/js/2.7d3a9bbe.chunk.js",
+    "static/css/main.34a6d31a.chunk.css",
+    "static/js/main.8c6272cb.chunk.js"
+  ]
+}
