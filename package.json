@@ -1,6 +1,8 @@
 {
   "name": "appointments-app",
   "private": true,
+  "homepage": "https://<your-github-username>.github.io/<repository-name>"
+
   "version": "1.0.0",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
@@ -29,6 +31,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+
     "test": "react-scripts test",
     "lint": "eslint .",
     "lint:fix": "eslint --fix src/",
